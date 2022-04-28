@@ -1,0 +1,84 @@
+.card-body{
+    height: 400px;
+    padding: 1.8em;
+    color: black;
+}
+
+.card-body .title{
+    padding: 0.5em;
+}
+
+.card-body .form-group{
+    margin-top: 60px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 2px;
+}
+
+#home{
+    background-color: #f04d55;
+    color: white;
+    padding-top: 2em;
+    height: 551px;
+    margin-top: 128px;
+}
+
+.carousel-item.active h1{
+    margin-bottom: 17%;
+    margin-top: 10%;
+}
+
+.carousel-item.active p{
+    margin-bottom: 8%;
+}
+
+section#home span{
+    color:#007bff;
+}
+
+section#home span:hover{
+    color:#459dfaf8;
+    cursor: pointer;
+}
+
+section#home {
+    margin-bottom: 0;
+}
+
+.errorInput {
+    border: 2px solid #db0101 !important;
+}
+
+.correctInput {
+    border: 2px solid #11eb2e !important;
+}
+
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;;
+}
+
+.caixa p{
+    color: #242424;
+    margin-bottom: 50px;
+}
+
+.caixa h4{
+    margin-bottom: 25px;
+}
+
+.cx{
+    border: 1px solid #cececefb;
+    border-radius: 20px;
+}
+
+.cx:hover{
+    border: 2px solid #ffc547fb;
+}
+
+.cx:hover h4{
+    font-size: 28px;
+}
+
